@@ -1,0 +1,38 @@
+.card{
+  
+    display: flex;
+    justify-content: center;
+    margin:30px;
+}
+.option:hover{
+    cursor: pointer;
+    background-color: rgba(128, 123, 123,0.2);
+}
+.finalbtn{
+    width:300px;
+    margin-left:80px;
+}
+.colormcq{
+    background-color: pink;
+}
+.next{
+    margin-left:180px;
+    width:100px;
+}
+.skip
+{
+    margin-left: 20px;
+    width:100px;
+}
+.quiz-heading {
+    
+        font-size: 2.5rem;
+        font-weight: bold;
+        text-align: center;
+        padding: 10px;
+        background-image: linear-gradient(to right, #05544f, #552dba);
+        color: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+    
+}
